@@ -9,7 +9,7 @@ Run the server as follows:
 
 ```python simple-https-server.py```
 
-Then in your browser, visit:
+Then in your browser (or in a test on Sauce using Sauce Connect), visit:
 
 https://localhost:8000
     
